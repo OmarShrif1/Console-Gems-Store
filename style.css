@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
 }
 .console {
-    background-image: url(Images/Controller.jpg);
+    background-image: url(Controller.jpg);
     background-size: cover;
     height: 47rem;
     position: relative;
